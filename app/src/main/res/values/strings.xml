@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CIBERTEC</string>
+
+    <string name="btn_registra">Register</string>
+    <string name="btn_actualiza">Update</string>
+    <string name="btn_elimina">Delete</string>
+    <string name="btn_lista">List</string>
+    <string name="btn_guardar">Save</string>
+
+    <string name="lbl_id">ID</string>
+    <string name="lbl_nombre">Nombre</string>
+    <string name="lbl_apellido">Apellido</string>
+    <string name="lbl_dni">Dni</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_password">Password</string>
+
+    <string-array name="array_estado">
+        <item>[Seleccione]</item>
+        <item>ACTIVO</item>
+        <item>INACTIVO</item>
+    </string-array>
+
+
+</resources>
